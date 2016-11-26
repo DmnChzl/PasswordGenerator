@@ -18,12 +18,12 @@ You need to have a Python environment on your computer.
 You can specify a pattern for your custom password with `--pattern=[value]`. For example, if you want to create password of twelve characters with four numbers in the beginning and eigth uppercase letters at the end, you can do this like that : `--pattern='{N4}{L8}'`, or by specifying length, like this :  `--length=12 --pattern='{N4}{L+}'`. As you wish !
 
 Here is the list of parameters of the pattern : 
-- {L+} : uppercase letters up to the specified length (by default the length is randomly between eight and sixteen)
-- {c4} : four lowercase consonants
-- {v6} : six lowercase vowels
-- {S5} : five symbols ({s5} is the same)
-- {N3} : three numbers ({n3} is the same)
-- {w9} : nine lowercase letters like a word (for example, `ikifekiza`)
+- **{L+}** : uppercase letters up to the specified length (by default the length is randomly between eight and sixteen)
+- **{c4}** : four lowercase consonants
+- **{v6}** : six lowercase vowels
+- **{S5}** : five symbols (**{s5}** is the same)
+- **{N3}** : three numbers (**{n3}** is the same)
+- **{w9}** : nine lowercase letters like a word (for example, `ikifekiza`)
 
 #License
 
