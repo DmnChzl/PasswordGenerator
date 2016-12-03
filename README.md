@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/MrDoomy/PasswordGenerator/master/dev/password_generator.png)
+![Image](https://raw.githubusercontent.com/MrDoomy/PasswordGenerator/master/dev/images/password_generator.png)
 
 This is a simple script to generate classic or custom password.
 
@@ -24,6 +24,10 @@ Here is the list of parameters of the pattern :
 - **{S5}** : five symbols (**{s5}** is the same)
 - **{N3}** : three numbers (**{n3}** is the same)
 - **{w9}** : nine lowercase letters like a word (for example, `ikifekiza`)
+
+#Screenshot
+
+![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
 
 #License
 
