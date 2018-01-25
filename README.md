@@ -9,11 +9,11 @@ This includes features like :
 - Specify a pattern for the password
 - Return the password in a text file
 
-#Prerequisites
+# Prerequisites
 
 You need to have a Python environment on your computer.
 
-#Usage
+# Usage
 
 You can specify a pattern for your custom password with `--pattern=[value]`. For example, if you want to create password of twelve characters with four numbers in the beginning and eigth uppercase letters at the end, you can do this like that : `--pattern='{N4}{L8}'`, or by specifying length, like this :  `--length=12 --pattern='{N4}{L+}'`. As you wish !
 
@@ -25,11 +25,11 @@ Here is the list of parameters of the pattern :
 - **{N3}** : three numbers (**{n3}** is the same)
 - **{w9}** : nine lowercase letters like a word (for example, `ikifekiza`)
 
-#Screenshot
+# Screenshot
 
 ![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
 
-#License
+# License
 
     Copyright (C) 2016 Damien Chazoule
 
