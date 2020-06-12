@@ -27,7 +27,7 @@ Here is the list of parameters of the pattern :
 
 # Screenshot
 
-![Image](https://raw.githubusercontent.com/MrDoomy/MusicCropper/master/dev/screenshots/computer.png)
+![Image](https://raw.githubusercontent.com/MrDoomy/PasswordGenerator/master/dev/screenshots/computer.png)
 
 # License
 
