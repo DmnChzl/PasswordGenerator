@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/MrDoomy/PasswordGenerator/master/dev/images/password_generator.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/PasswordGenerator/master/dev/images/password_generator.png)
 
 This is a simple script to generate classic or custom password.
 
@@ -27,7 +27,7 @@ Here is the list of parameters of the pattern :
 
 # Screenshot
 
-![Image](https://raw.githubusercontent.com/MrDoomy/PasswordGenerator/master/dev/screenshots/computer.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/PasswordGenerator/master/dev/screenshots/computer.png)
 
 # License
 
